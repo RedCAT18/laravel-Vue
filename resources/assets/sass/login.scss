@@ -1,0 +1,54 @@
+
+
+#login_bg {
+    background-color: #29AFC9;
+}
+
+
+.login_box {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #fff;
+    margin-top: 20%;
+    padding: 0;
+    .login_title {
+        padding: 20px;
+        font-size: 50px;
+        .login_icon {
+            padding: 10px;
+            color: #C7C7C7;
+        }
+    }
+    .login_form {
+        p {
+           font-size: 8pt;
+        }
+        .login_sect {
+            font-size: 8pt;
+            padding: 25px;
+            margin: 0;
+            background-color: #e5e7e7;
+            .login_warning {
+                color: #f00;
+                font-weight: 700;
+                margin: 5px 0;
+                font-size: 8pt;
+            }
+            .btn-design {
+                margin-top: 20px;
+                background-color: #29AFC9;
+                color: #fff;
+                font-size: 8pt;
+                padding: 10px;
+            }
+        }
+    }
+  .find_pw {
+      padding: 15px 40px;
+      background-color: #041114;
+      color: #fff;
+      font-size: 9pt;
+  }
+}
+
+
+

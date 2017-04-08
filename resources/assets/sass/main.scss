@@ -1,0 +1,22 @@
+
+.contents {
+  height: 100%;
+  z-index: -1;
+  .sidebar {
+    min-height: 100%;
+    background-color: #fff;
+    padding: 20px;
+    -webkit-box-shadow: 3px 0px 2px #BCD8D6;
+    -moz-box-shadow: 3px 0px 2px #BCD8D6;
+    box-shadow: 3px 0px 2px #BCD8D6;
+  }
+  .user_pf {
+    margin-left: 20px;
+    div {
+      margin: 10px;
+    }
+    .user_name {
+      font-weight: 700;
+    }
+  }
+}
